@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/menu/action_file.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/menu/action_file.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/menu/main.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/menu/folder_browser.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/menu/folder_browser.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/menu/action_file_single.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/menu/action_file_single.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/menu/about.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/menu/about.xml"
+    }
+]

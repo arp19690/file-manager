@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1119,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1382
+                    }
+                }
+            }
+        ]
+    }
+]

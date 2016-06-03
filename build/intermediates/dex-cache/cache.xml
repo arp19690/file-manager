@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/pre-dexed/debug/internal_impl-21.0.0_99cb0aabb6e10044a5741e04b835de77cac8bb98.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/libs/msqlite.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d37a38ef10dbf2e43140b97ebb1c0a0914fe1bdc">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/pre-dexed/debug/msqlite_2e91e4d66efc8bde3fee96678710bf6be6ae2171.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/libs/SystemBarTint.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77541ad48d3d6ed98a96dd27f8f03b5340542612">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/pre-dexed/debug/SystemBarTint_1b35207b3bc5636cae3c210e753e846fcdbbc89d.jar" />
+    </item>
+    <item
+        jar="/Users/arpit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/pre-dexed/debug/support-annotations-21.0.0_0f2d059b237d7d7d3ec868cde8c1eecbb6fb7de7.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.0_4be8d3f16070118f99f93652f7ed7c34cadd6fed.jar" />
+    </item>
+
+</items>

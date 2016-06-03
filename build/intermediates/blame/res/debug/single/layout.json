@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/list_item_file_card_image.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/list_item_file_card_image.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/list_item_file_card_text.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/list_item_file_card_text.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/layout_nav_drawer.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/layout_nav_drawer.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/layout_clipboard_drawer.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/layout_clipboard_drawer.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/list_item_file.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/list_item_file.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/list_item_file_card.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/list_item_file_card.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/layout/dialog_edittext.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/layout/dialog_edittext.xml"
+    }
+]

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_d_files_deleted">%d soubory smazány</string>
+    <string name="_d_objects">%d objektů</string>
+    <string name="add_favourite">Přidat k oblíbeným</string>
+    <string name="add_to_homescreen">Vytvořit odkaz</string>
+    <string name="add_to_homescreen_multiple">Vytvořit odkazy</string>
+    <string name="app_icon">Ikona aplikace</string>
+    <string name="app_name">File Manager Pro</string>
+    <string name="cannot_read_directory_s">Nelze načíst adresář %s</string>
+    <string name="clipboard_is_empty">Schránka je prázdná</string>
+    <string name="close_drawer">Zavřít šuplík</string>
+    <string name="copy">Kopírovat</string>
+    <string name="create">Vytvořit</string>
+    <string name="create_folder">Vytvořit adresář</string>
+    <string name="credits">Aplikaci vyvinul Michal Dabski www.michaldabski.com
+        \n
+        \n        
+        Ikony použité z www.iconsdb.com</string>
+    <string name="cut">Vyjmout</string>
+    <string name="dcim">DCIM</string>
+    <string name="delete">Smazat</string>
+    <string name="delete_d_items_">Smazat %d položek?</string>
+    <string name="downloads">Stažené</string>
+    <string name="error">Chyba</string>
+    <string name="feedback">Odezva na aplikaci</string>
+    <string name="file_could_not_be_renamed_to_s">Soubor nemohl být přejmenován na %s</string>
+    <string name="file_info">Informace o souboru</string>
+    <string name="file_renamed">Soubor přejmenován</string>
+    <string name="files_pasted">Soubory vloženy</string>
+    <string name="folder">%d položek</string>
+    <string name="folder_could_not_be_created">Adresář nemohl být vytvořen</string>
+    <string name="folder_created_successfully">Adresář úspěšně vytvořen</string>
+    <string name="folder_empty">Prázdný adresář</string>
+    <string name="loading_">Načítám…</string>
+    <string name="mime_type_s">MIME typ: %s</string>
+    <string name="movies">Filmy</string>
+    <string name="music">Hudba</string>
+    <string name="objects_copied_to_clipboard">Objekty zkopírovány do schránky</string>
+    <string name="objects_cut_to_clipboard">Objekty vloženy do schránky</string>
+    <string name="open_drawer">Otevřít šuplík</string>
+    <string name="open_file_with_">Otevřít %s s:</string>
+    <string name="other_apps">Další aplikace</string>
+    <string name="paste_here">Vložit sem</string>
+    <string name="pasting_files_">Vkládám soubory…</string>
+    <string name="photos">Fotografie</string>
+    <string name="pictures">Obrázky</string>
+    <string name="refresh">Obnovit</string>
+    <string name="remove_favourite">Odstranit z oblíbených</string>
+    <string name="rename">Přejmenovat</string>
+    <string name="rename_file">Přejmenovat soubor</string>
+    <string name="rename_folder">Přejmenovat adresář</string>
+    <string name="root">Kořen</string>
+    <string name="select_all">Vybrat vše</string>
+    <string name="share">Sdílet</string>
+    <string name="shortcut_created">Odkazy přidány na domovskou obrazovku</string>
+    <string name="size_s">Velikost: %s</string>
+    <string name="title_activity_about">O aplikaci</string>
+    <string name="up">Vzhůru</string>
+</resources>

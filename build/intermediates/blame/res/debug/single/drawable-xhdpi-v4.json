@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/folder_logo.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/folder_logo.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_navigate_up.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_navigate_up.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_other_apps.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_other_apps.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_feedback.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_feedback.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_create_folder.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_create_folder.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fast_scroll_handle_pressed.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/fast_scroll_handle_pressed.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_documents.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_documents.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_file.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_file.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_music.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_music.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/drawer_shadow.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_downloads.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_downloads.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fast_scroll_track.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/fast_scroll_track.9.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_folder.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_folder.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_sdcard.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_sdcard.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_cut.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_cut.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_delete.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_favourite_not.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_favourite_not.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_home_shortcut.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_home_shortcut.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_home_folder.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_home_folder.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_pictures.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_pictures.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_copy.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_copy.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_selected.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_selected.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_about.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_about.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/fast_scroll_handle_default.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/fast_scroll_handle_default.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_paste.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_paste.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_select_all.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_select_all.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_movies.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_movies.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_home_file.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/icon_home_file.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_image_error.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/card_image_error.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_favourite.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_favourite.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_drawer.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_image_placeholder.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/card_image_placeholder.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_refresh.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_refresh.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_rename.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable-xhdpi/ic_rename.png"
+    }
+]

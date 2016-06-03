@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/list_item_selected_pressed.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/list_item_selected_pressed.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/selector_card_selected.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/selector_card_selected.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/list_item_selected.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/list_item_selected.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/selector_card.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/selector_card.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/selector_list_item_selected.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/selector_list_item_selected.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/selector_list_item.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/selector_list_item.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/card_selected.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/card_selected.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/card_selected_clicked.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/card_selected_clicked.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/fast_scroll_handle.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/fast_scroll_handle.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/build/intermediates/res/merged/debug/drawable/card.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/filemanager/res/drawable/card.xml"
+    }
+]
